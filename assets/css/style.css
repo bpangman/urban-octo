@@ -75,7 +75,7 @@ header nav ul li {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-    position: static;
+    position: relative;
 }
 
 /* content styles */
